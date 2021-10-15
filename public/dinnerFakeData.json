@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "title":"Healthy Dinner Meal Plan",
+        "description":"How we dream about our future",
+        "img":"https://i.ibb.co/Pw5JySQ/dinner1.png",
+        "price":21.99
+
+    },
+    {
+        "id":2,
+        "title":"Chicken Bento",
+        "description":"How we dream about our future",
+        "img":"https://i.ibb.co/tPs7Ktd/dinner2.png",
+        "price":17.99
+
+    },
+    {
+        "id":3,
+        "title":"Rubben-Salmon",
+        "description":"How we dream about our future",
+        "img":"https://i.ibb.co/TWTy377/dinner3.png",
+        "price":13.99
+
+    },
+    {
+        "id":4,
+        "title":"Indian Dinner",
+        "description":"How we dream about our future",
+        "img":"https://i.ibb.co/wS7zK0n/dinner4.png",
+        "price":12.99
+
+    },
+    {
+        "id":5,
+        "title":"Chicken Steak",
+        "description":"How we dream about our future",
+        "img":"https://i.ibb.co/Qp45FvC/dinner5.png",
+        "price":19.99
+
+    },
+    {
+        "id":6,
+        "title":"Glazed Salmon with peppers",
+        "description":"How we dream about our future",
+        "img":"https://i.ibb.co/MMfPLpf/dinner6.png",
+        "price":8.99
+
+    }
+    
+   
+]

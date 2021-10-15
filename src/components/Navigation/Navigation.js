@@ -1,8 +1,9 @@
 import React from 'react';
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { Container, Nav, Navbar, NavLink } from 'react-bootstrap';
+import { Container, Nav, Navbar} from 'react-bootstrap';
 import logo from "../../images/logo2.png"
+import { Link } from 'react-router-dom';
 
 const Navigation = () => {
     return (
@@ -12,9 +13,9 @@ const Navigation = () => {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="ms-auto">
-                    <NavLink to="/cart"><FontAwesomeIcon icon={faShoppingCart} /></NavLink>
-                    <NavLink to="/login">Login</NavLink>
-                    <NavLink className="bg-danger text-white rounded-pill ms-2 px-4" to="/signup">Sign up </NavLink>
+                    <Link className="text-dark fw-bold py-1 text-decoration-none" to="/cart"><FontAwesomeIcon icon={faShoppingCart} /></Link>
+                    <Link className="text-dark fw-bold mx-4 py-1 text-decoration-none" to="/login">Login</Link>
+                    <Link className="bg-danger text-white rounded-pill ms-2 px-3 py-1 text-decoration-none" to="/signup">Sign up </Link>
                 </Nav>
             </Navbar.Collapse>
         </Container>

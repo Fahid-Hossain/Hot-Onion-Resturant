@@ -12,7 +12,8 @@ function App() {
      <BrowserRouter>
       <Switch>
         <Route exact path="/">
-            <Home></Home>
+            {/* <Home></Home> */}
+            <Breakfast></Breakfast>
         </Route>
         <Route path="/home">
             <Home></Home>

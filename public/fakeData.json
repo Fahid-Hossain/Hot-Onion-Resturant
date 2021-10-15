@@ -3,49 +3,49 @@
     {
         "id":1,
         "title":"Healthy Meal Plan",
-        "Description":"How we dream about our future",
-        "img":"../src/images/Breakfast/breakfast1.png",
-        "Price":23.99
+        "description":"How we dream about our future",
+        "img":"https://i.ibb.co/rsQLgKF/breakfast1.png",
+        "price":23.99
 
     },
     {
         "id":1,
         "title":"Fried Chicken Bento",
-        "Description":"How we dream about our future",
-        "img":"",
-        "Price":23.99
+        "description":"How we dream about our future",
+        "img":"https://i.ibb.co/YbTYL7b/breakfast2.png",
+        "price":23.99
 
     },
     {
         "id":1,
         "title":"Tarragon-Rubben-Salmon",
-        "Description":"How we dream about our future",
-        "img":"",
-        "Price":23.99
+        "description":"How we dream about our future",
+        "img":"https://i.ibb.co/MfCrLQX/breakfast3.png",
+        "price":23.99
 
     },
     {
         "id":1,
         "title":"Indian Lunch",
-        "Description":"How we dream about our future",
-        "img":"",
-        "Price":8.99
+        "description":"How we dream about our future",
+        "img":"https://i.ibb.co/TTWfnq4/breakfast4.png",
+        "price":8.99
 
     },
     {
         "id":1,
         "title":"Beef Steak",
-        "Description":"How we dream about our future",
-        "img":"",
-        "Price":15.99
+        "description":"How we dream about our future",
+        "img":"https://i.ibb.co/9WZDXgq/breakfast5.png",
+        "price":15.99
 
     },
     {
         "id":1,
         "title":"Honey-Soy-Glazed Salmon with peppers",
-        "Description":"How we dream about our future",
-        "img":"",
-        "Price":7.99
+        "description":"How we dream about our future",
+        "img":"https://i.ibb.co/brv6xGV/breakfast6.png",
+        "price":7.99
 
     }
     

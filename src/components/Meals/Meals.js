@@ -16,10 +16,11 @@ const Meals = () => {
                                 <Link className="fs-5 fw-bold text-decoration-none text-secondary" to="/dinner">Dinner</Link>
                             </Nav>
                     </Container>
+
                 </Navbar>
-            
-           
+        
             </div>
+
 
         </div>
     );

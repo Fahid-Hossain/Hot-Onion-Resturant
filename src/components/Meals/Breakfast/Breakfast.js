@@ -13,8 +13,8 @@ const Breakfast = () => {
     return (
         <div>
             <Home></Home>
-            <h1>Good Morning , Have a breakfast with us</h1>
-            <Row xs={1} md={2} className="g-4">
+            <h1 className="m-5 text-secondary">Good Morning ,Lets Have your breakfast with us</h1>
+            <Row xs={1} md={3} className="g-4">
           {
               breakfastMeals.map(meal=><BreakfastMeals meal={meal}></BreakfastMeals>)
           }
